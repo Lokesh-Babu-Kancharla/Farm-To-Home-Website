@@ -1,1 +1,4 @@
 # Farm-To-Home-Website
+The major outcome from this website is that the farmers could set a price for the products produced by them and earn their fair share of profit from the items sold rather than losing a lot of money through the middle men shares. The site would lower down the rate of middle men buying and selling the products that are bought from farmers to the customers with an additional huge sum of money. 
+
+This site also only allows that each customer is only restricted to purchase only some certain amount of product to stop them from overbuying and stocking. As this site is built with the direct involvement from farmers union and their respective farmers, they get to know all the details of the purchases done and the sold details of goods. The site gets updated on daily basis to update the rate of products and to update the available products.
